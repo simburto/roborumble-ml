@@ -1,0 +1,14 @@
+{
+    "model":  "1678-recorded-405-v38.json",
+    "version":  38,
+    "robot":  1678,
+    "recordedScore":  405,
+    "seed":  150042,
+    "video":  "405-point-match.mp4",
+    "finishPage":  "405-point-finish.png",
+    "frames":  2662,
+    "duration":  177.466667,
+    "fullDecodeVerified":  true,
+    "finishImageVerified":  true,
+    "independent400Verified":  false
+}
