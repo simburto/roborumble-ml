@@ -30,7 +30,7 @@ The game itself was not modified: matches remained 15 seconds autonomous and 135
 
 ## Previous Approaches
 
-Earlier versions attempted to train the robot externally using computer vision and emulated keyboard inputs.
+I first thought of making this around July, 2024. Earlier versions attempted to train the robot externally using computer vision and emulated keyboard inputs.
 
 A custom-trained YOLO model tracked the robot and tried to determine its state using the robot's indicator lights. This approach worked, but it was too unreliable for high-level play. Field elements could block the indicator lights, object detection introduced errors, and incorrect state estimates often led to bad actions.
 
