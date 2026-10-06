@@ -4,13 +4,11 @@ A trained robot scored 405 points in [RoboRumble](https://corbeng.itch.io/robo-r
 
 ## Record Match
 
-<video controls width="720">
-  <source src="405-point-match.mp4" type="video/mp4">
-</video>
-
-[Watch the full match](405-point-match.mp4)
+![405-point full match](405-point-match.gif)
 
 ![405-point finish screen](405-point-finish.png)
+
+[Watch the full match](405-point-match.mp4)
 
 ## Training
 
